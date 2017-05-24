@@ -4,7 +4,9 @@ using namespace std;
 
 int main() {
 
-	cout << "GitHubテスト" << endl;
+	for (int i = 0; i < 3; i++) {
+		cout << "GitHubテスト" << endl;
+	}
 
 	return 0;
 
